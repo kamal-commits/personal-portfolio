@@ -1,5 +1,5 @@
 import React from 'react';
-import Kamal from '../image/kamal2.png';
+
 
 const LandingPage = () => {
   return (
@@ -43,7 +43,7 @@ const LandingPage = () => {
       <div class="container mb-5" id="home">
         <div class="row">
           <div class="col-md-5 col-12 col-sm-12 mt-5">
-            <img src={Kamal} alt="" class="img-fluid" />
+            <img src="https://res.cloudinary.com/kkamal714/image/upload/v1593164862/Portfolio/kamal2_zxijak.png" alt="" class="img-fluid" />
           </div>
           <div class="col-md-5 offset-md-2 text-center info-div">
             <h1>HEY</h1>

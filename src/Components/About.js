@@ -1,5 +1,4 @@
 import React from 'react';
-import cartoon from '../image/cartoon.png';
 
 export const About = () => {
   return (
@@ -27,7 +26,7 @@ export const About = () => {
             </a>
           </div>
           <div class="col-md-4 offset-md-3">
-            <img src={cartoon} alt="" class="img-fluid" />
+            <img src="https://res.cloudinary.com/kkamal714/image/upload/v1593164861/Portfolio/cartoon_u2gt3y.jpg" alt="" class="img-fluid" />
           </div>
         </div>
       </div>

@@ -1,7 +1,4 @@
 import React from 'react';
-import mern from '../image/certificates/mern.PNG';
-import react from '../image/certificates/react.PNG';
-import node from '../image/certificates/node.PNG';
 
 const Certificate = () => {
   return (
@@ -16,13 +13,13 @@ const Certificate = () => {
 
         <div class="row" style={{ marginTop: '2%' }}>
           <div class="col-md-4 mt-5">
-            <img src={mern} alt="" class="img-fluid" />
+            <img src="https://res.cloudinary.com/kkamal714/image/upload/v1593164877/Portfolio/mern_il9fru.png" alt="" class="img-fluid" />
           </div>
           <div class="col-md-4 mt-5">
-            <img src={react} alt="" class="img-fluid" />
+            <img src="https://res.cloudinary.com/kkamal714/image/upload/v1593164876/Portfolio/react_rgvseg.png" alt="" class="img-fluid" />
           </div>
           <div class="col-md-4 mt-5">
-            <img src={node} alt="" class="img-fluid" />
+            <img src="https://res.cloudinary.com/kkamal714/image/upload/v1593164876/Portfolio/node_z9sjn7.png" alt="" class="img-fluid" />
           </div>
         </div>
       </div>
