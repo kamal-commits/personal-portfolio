@@ -18,7 +18,7 @@ const Skills = () => {
               <div
                 class="progress-bar progress-bar-striped"
                 role="progressbar"
-                style={{ width: '100' }}
+                style={{ width: '100%' }}
                 aria-valuenow="10"
                 aria-valuemin="0"
                 aria-valuemax="100"
